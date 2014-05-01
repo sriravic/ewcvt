@@ -20,4 +20,3 @@ end
 figure,imshow(output);
 
 imwrite(output,'night_cvt.jpg','jpg');
-%imwrite(I,'abhi1_equal.jpg','jpg');
